@@ -9,7 +9,7 @@ I'm an frontend developer and content creator building my version of the digital
          <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
       <a href="https://www.youtube.com/@ArduinoHellas">
          <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC2WHjPDvbE6O328n17ZGcfg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
-      <a href="https://github.com/ForrestKnight?tab=followers">
+      <a href="https://github.com/panagiotispapazisis?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/panagiotispapazisis?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
@@ -19,8 +19,7 @@ I'm an frontend developer and content creator building my version of the digital
 
 ### 🧰 Languages and Tools
 
-<img align="left" alt="Arduino" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-plain-wordmark.svg"/>
-<img align="left" alt="Raspberry Pi" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-line-wordmark.svg" />
+
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
@@ -37,6 +36,8 @@ I'm an frontend developer and content creator building my version of the digital
 <img align="left" alt="Mongo DB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
 <img align="left" alt="FireBase" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" />
 <img align="left" alt="Slack" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original-wordmark.svg" />
+<img align="left" alt="Arduino" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-plain-wordmark.svg"/>
+<img align="left" alt="Raspberry Pi" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-line-wordmark.svg" />
 <br />
 
 #
@@ -44,7 +45,7 @@ I'm an frontend developer and content creator building my version of the digital
 ### 📺 Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![Φτιάξτε την δικιά σας εφαρμογή για τον έλεγχο της θερμοκρασίας του σπιτιού σας + Εmail notification](https://ytcards.demolab.com/?id=jpQJ8aOThNY&title=Φτιάξτε+την+δικιά+σας+εφαρμογή+για+τον+έλεγχο+της+θερμοκρασίας+του+σπιτιού+σας+++Εmail+notification&lang=en&timestamp=1671555624&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=647 "The Right Way to Build an MVP")](https://www.youtube.com/watch?v=SgQ9GJFSTA8&t=824s)
+[![Φτιάξτε την δικιά σας εφαρμογή για τον έλεγχο της θερμοκρασίας του σπιτιού σας + Εmail notification](https://ytcards.demolab.com/?id=jpQJ8aOThNY&title=Φτιάξτε+την+δικιά+σας+εφαρμογή+για+τον+έλεγχο+της+θερμοκρασίας+του+σπιτιού+σας+++Εmail+notification&lang=en&timestamp=1671555624&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=647 "Φτιάξτε την δικιά σας εφαρμογή για τον έλεγχο της θερμοκρασίας του σπιτιού σας + Εmail notification")](https://www.youtube.com/watch?v=SgQ9GJFSTA8&t=824s)
 
 <!-- END YOUTUBE-CARDS -->
 
@@ -54,7 +55,7 @@ I'm an frontend developer and content creator building my version of the digital
 
 ### 📊 Stats
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=panagiotispapazisis&show_icons=true&theme=gruvbox)
+![Panagioti's GitHub stats](https://github-readme-stats.vercel.app/api?username=panagiotispapazisis&show_icons=true&theme=gruvbox)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=panagiotispapazisis&theme=gruvbox&border_radius=4.5) -->
 
