@@ -6,13 +6,13 @@ I'm an frontend developer and content creator building my version of the digital
 
    <p align="left">
       <a href="https://www.youtube.com/@ArduinoHellas?sub_confirmation=1">
-         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
+         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC9aDBIqmaTVAyzJshEHXejA?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
       <a href="https://www.youtube.com/@ArduinoHellas">
-         <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC2WHjPDvbE6O328n17ZGcfg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
+         <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC9aDBIqmaTVAyzJshEHXejA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
       <a href="https://github.com/panagiotispapazisis?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/panagiotispapazisis?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/panagiotispapazisis?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/panagiotispapazisis?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
 
 ---
@@ -45,7 +45,7 @@ I'm an frontend developer and content creator building my version of the digital
 ### 📺 Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![Φτιάξτε την δικιά σας εφαρμογή για τον έλεγχο της θερμοκρασίας του σπιτιού σας + Εmail notification](https://ytcards.demolab.com/?id=jpQJ8aOThNY&title=Φτιάξτε+την+δικιά+σας+εφαρμογή+για+τον+έλεγχο+της+θερμοκρασίας+του+σπιτιού+σας+++Εmail+notification&lang=en&timestamp=1671555624&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=647 "Φτιάξτε την δικιά σας εφαρμογή για τον έλεγχο της θερμοκρασίας του σπιτιού σας + Εmail notification")](https://www.youtube.com/watch?v=SgQ9GJFSTA8&t=824s)
+[![Φτιάξτε την δικιά σας εφαρμογή για τον έλεγχο της θερμοκρασίας του σπιτιού σας + Εmail notification](https://ytcards.demolab.com/?id=SgQ9GJFSTA8&t&title=Φτιάξτε+την+δικιά+σας+εφαρμογή+για+τον+έλεγχο+της+θερμοκρασίας+του+σπιτιού+σας+++Εmail+notification&lang=en&timestamp=1671555624&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=647 "Φτιάξτε την δικιά σας εφαρμογή για τον έλεγχο της θερμοκρασίας του σπιτιού σας + Εmail notification")](https://www.youtube.com/watch?v=SgQ9GJFSTA8&t=824s)
 
 <!-- END YOUTUBE-CARDS -->
 
