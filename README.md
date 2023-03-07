@@ -2,7 +2,15 @@
 
 **`Digital Craftsman (Developer)`**
 
-I'm an frontend developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing. I publish that content on my YouTube channel "[Arduino Hellas][youtube]".
+As a frontend developer with a focus on React, TypeScript, and JavaScript, I have honed my technical expertise over the course of two years. I have extensive experience working with popular libraries such as Redux, Material UI, Axios, Lodash, Formik and Yup. These libraries allow me to build robust and user-friendly applications that meet my clients' needs.
+
+However, my background in automation engineering and my Master's degree in logistics and supply chain management provide a unique perspective to my work in the digital world. This allows me to approach development projects with a deeper understanding of how technology can streamline processes and drive efficiency in various industries.
+
+During my free time, I enjoy exploring my passion for creating things by working on Arduino and Raspberry Pi projects. I even share my knowledge on these topics through my YouTube channel, where I post tutorials on using Arduino "[Arduino Hellas][youtube]". This not only serves as a fun hobby but also helps me gain a better understanding of how technology can be used in the real world to solve problems, especially in the field of IoT (Internet of Things).
+
+Moreover, I have experience building backend APIs using FastAPI, enabling me to create full-stack applications that seamlessly integrate with the frontend, resulting in a cohesive user experience. My diverse interests, combined with my technical expertise, motivate me to continue building and learning.
+
+As an avid explorer of new technology ideas, I enjoy delving into the fields of automation and IoT. Through my YouTube channel, I strive to share my love of creation with others and make complex concepts more accessible to those who are just starting out. Whether it's building a new application, creating a new hardware project, or sharing my knowledge through tutorials, I'm constantly looking to expand my horizons and enhance my skillset. 
 
    <p align="left">
       <a href="https://www.youtube.com/@ArduinoHellas?sub_confirmation=1">
