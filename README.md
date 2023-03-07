@@ -1,6 +1,6 @@
 # 🏄‍♂️ Panagiotis Papazisis
 
-**`Digital Craftsman (Developer)`**
+**`Developer (Automation Engineer)`**
 
 As a frontend developer with a focus on React, TypeScript, and JavaScript, I have honed my technical expertise over the course of two years. I have extensive experience working with popular libraries such as Redux, Material UI, Axios, Lodash, Formik and Yup. These libraries allow me to build robust and user-friendly applications that meet my clients' needs.
 
