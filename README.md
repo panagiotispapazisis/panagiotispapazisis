@@ -71,7 +71,15 @@ As an avid explorer of new technology ideas, I enjoy delving into the fields of 
 
 <details>
  <summary><h3>👨‍💻 Panagioti's Coding Journey</h3></summary>
-   I started my coding journey as a automation engineer student with a passion to learn everything I could about this programming world. And all this time, teaching myself app development gave me a dream to build my own app. A desire that landed me a front-end software engineering job upon graduation.I jumped at the chance and at first worked as a robotic vehicle developer. But along the way I discovered that my real dream is to become a full-stack developer. However, I had another desire I had been pursuing throughout this time - YouTube content creation. I have a burning desire to fulfill that dream me had of building my own app, my own product. Don't wait up, because I'm coming.
+  As an automation engineering student, my coding journey began with an insatiable desire to learn everything I could about the world of programming. While teaching myself app development, I realized that building my own app was a dream that I wanted to achieve. This passion led me to land a front-end software engineering job after graduation, where I started as a robotic vehicle developer.
+
+However, I soon realized that my true aspiration was to become a full-stack developer. Alongside my work, I continued to explore my other passion - creating content for my YouTube channel. This burning desire to build my own app and product has never left me and continues to drive me forward.
+
+With my experience in React, TypeScript, JavaScript, and popular libraries such as Redux, Material UI, Axios, Lodash, Formik, and Yup, I have honed my technical skills to create robust and user-friendly applications that meet my clients' needs. My background in automation engineering and logistics, combined with my passion for technology, has given me a unique perspective on how to streamline processes and drive efficiency in various industries.
+
+In my free time, I continue to explore my passion for creating things, especially in the field of IoT. Through my YouTube channel, "Arduino Hellas," I share my knowledge of hardware and software development with others, making complex concepts more accessible to those who are just starting out.
+
+My ultimate goal is to fulfill my dream of building my own app and product. I'm constantly expanding my horizons, enhancing my skillset, and working towards achieving this goal. So, don't wait up, because I'm coming!
 
 
 [youtube]: https://youtube.com/@ArduinoHellas
